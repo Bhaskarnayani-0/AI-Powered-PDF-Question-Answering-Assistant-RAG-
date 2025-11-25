@@ -1,11 +1,4 @@
 # AI-Powered-PDF-Question-Answering-Assistant-RAG-
-langchain
-openai
-faiss-cpu
-pypdf
-tiktoken
-streamlit
-
 # PDF-QA-RAG
 
 AI-Powered PDF Question-Answering (RAG) — demo using LangChain + OpenAI + FAISS.
@@ -36,3 +29,18 @@ AI-Powered PDF Question-Answering (RAG) — demo using LangChain + OpenAI + FAIS
 ## Notes
 - Add OCR if PDFs are scanned images.
 - Persist FAISS index for production use.
+pdf-qa-rag/
+├─ README.md
+├─ app.py
+├─ requirements.txt
+├─ colab_rag_pdf_qa.ipynb
+├─ LICENSE
+└─ assets/
+   └─ sample.pdf
+langchain
+openai
+faiss-cpu
+pypdf
+tiktoken
+streamlit
+
