@@ -1,4 +1,11 @@
 # AI-Powered-PDF-Question-Answering-Assistant-RAG-
+langchain
+openai
+faiss-cpu
+pypdf
+tiktoken
+streamlit
+
 # PDF-QA-RAG
 
 AI-Powered PDF Question-Answering (RAG) — demo using LangChain + OpenAI + FAISS.
